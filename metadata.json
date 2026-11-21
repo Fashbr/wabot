@@ -1,0 +1,6 @@
+{
+  "name": "Wabot Studio",
+  "description": "Builder, simulator, dan server webhook bot WhatsApp otomatis berbasis aturan dan WhatsApp Cloud API.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
